@@ -11,7 +11,11 @@ The application supports:
 - Interactive Streamlit UI
 
 ---
+# Prototype Demo
 
+https://magicalbedtimestory.streamlit.app/
+
+---
 # 🚀 Project Overview
 
 This project creates magical bedtime stories tailored to a child’s:
@@ -120,6 +124,10 @@ Child_Bedtime_Story/
 | Prompt Engineering | Custom Prompt Templates |
 
 ---
+# Trade Off
+
+1. Prompt more context vs Token cost
+2. Safety vs API cost
 
 # 🧠 AI Agent Workflow
 
